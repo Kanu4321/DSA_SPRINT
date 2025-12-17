@@ -3,7 +3,7 @@
 #include <vector>
 using namespace std;
 
-void change(vector <int> &a) {
+void change(vector <int> &a) { 
     a[0]=100;
 }
 
